@@ -31,18 +31,26 @@
 #     my_test(name=name, roll=roll)
     
 
-my_name = "Jawad"
-my_roll = "01003"
-def test():
-    my_name = "Khan"
+# my_name = "Jawad"
+# my_roll = "01003"
+# def test():
+#     my_name = "Khan"
    
-    print(my_name)
-    print(my_roll)
+#     print(my_name)
+#     print(my_roll)
     
-    def another_test():
-        print(my_roll)
+#     def another_test():
+#         print(my_roll)
         
-    another_test()
+#     another_test()
 
-test()
-print(my_roll)
+# test()
+# print(my_roll)
+
+
+# Lambda Function 
+
+
+my_sum = lambda num1, num2: print(num1 + num2)
+
+my_sum(10, 20)
