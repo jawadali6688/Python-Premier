@@ -87,3 +87,65 @@
 
 #     else:
 #          print(f"{num} is odd")
+
+
+# While Loop
+
+# age = 15
+
+# while age < 20:
+
+#     print("Your age is less than 20", age)
+
+#     age = age + 1
+
+
+# i = 1
+
+# while i <= 10:
+
+#     print("Hello World", i)
+
+#     i += 1
+
+
+# table = 5
+
+# i = 1
+
+# while i <= 10:
+
+#     print(f"{i} X {table} = {table * i}")
+
+#     i += 1
+
+
+# my_name = "Jawad"
+
+# reversed_str = ""
+
+# i = 0
+
+# while i < len(my_name):
+
+#     reversed_str = my_name[i] + reversed_str
+
+#     i = i + 1
+
+# print(reversed_str)
+
+
+my_list = [1, 5, 7, 6, 8, 2, 4, 9]
+
+i = 0
+
+while i < len(my_list):
+
+    if my_list[i] % 2 == 0:
+        print("Yes even")
+
+    else:
+
+        print("Odd")
+
+    i = i + 1
