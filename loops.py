@@ -78,12 +78,12 @@
 # print(reversed_str)
 
 
-my_list = [2, 5, 7, 9, 11]
+# my_list = [2, 5, 7, 9, 11]
 
-for num in my_list:
+# for num in my_list:
 
-    if num % 2 == 0:
-        print(f"{num} is even")
+#     if num % 2 == 0:
+#         print(f"{num} is even")
 
-    else:
-         print(f"{num} is odd")
+#     else:
+#          print(f"{num} is odd")
