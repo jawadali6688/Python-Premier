@@ -135,17 +135,17 @@
 # print(reversed_str)
 
 
-my_list = [1, 5, 7, 6, 8, 2, 4, 9]
+# my_list = [1, 5, 7, 6, 8, 2, 4, 9]
 
-i = 0
+# i = 0
 
-while i < len(my_list):
+# while i < len(my_list):
 
-    if my_list[i] % 2 == 0:
-        print("Yes even")
+#     if my_list[i] % 2 == 0:
+#         print("Yes even")
 
-    else:
+#     else:
 
-        print("Odd")
+#         print("Odd")
 
-    i = i + 1
+#     i = i + 1

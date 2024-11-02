@@ -128,18 +128,18 @@
 #             # 5 * 4 * 3 * 2 * 1 * 1
 # print(fact(3))
 
-my_list = ["Jawad", "Khan", 234, 2342, True]
+# my_list = ["Jawad", "Khan", 234, 2342, True]
 
 
-def my_yield():
+# def my_yield():
 
-    for item in my_list:
+#     for item in my_list:
 
-       yield item
+#        yield item
 
-result = my_yield()
+# result = my_yield()
 
 
-for i in result:
+# for i in result:
 
-    print(i)
+#     print(i)
