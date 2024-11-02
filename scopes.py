@@ -11,3 +11,5 @@ def my_function():
     nested_function()
 my_function()
 print(y)
+
+# 
